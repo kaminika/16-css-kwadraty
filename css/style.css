@@ -13,3 +13,8 @@ h1 {
 body {
     background-color: #808080;
 }
+#square {
+	width: 100px;
+	height: 100px;
+	background-color: #F34A53;
+	margin: 40px auto 0;
