@@ -5,7 +5,8 @@ h1 {
 body {
     background-color: #808080;
 }
-#square {
-	width: 150px;
-	height: 75%;
-	color: #fea500;
+.square {
+    width:200px;
+    height: 200px;
+    background-color: #b497c7;
+  }
